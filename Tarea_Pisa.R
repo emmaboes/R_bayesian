@@ -1,5 +1,5 @@
 rm(list=ls())
-pi12 <- read.csv('C:/Users/migue/Downloads/pisa2012_subset_mat.csv')
+pi12 <- read.csv('~/pisa2012_subset_mat.csv')
 head(pi12)
 
 pi12 <- pi12[783:832,]
